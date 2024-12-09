@@ -21,6 +21,9 @@ Product Categories and Sub-Categories: Details of items sold under categories li
 Time Period: Sales trends broken down by months and quarters.
 
 Dashboard Highlights
+![A1 1](https://github.com/user-attachments/assets/77af2b2e-de2b-4103-b33b-39ad67b8434d)
+
+
 
 Total Metrics:
 
